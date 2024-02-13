@@ -240,6 +240,39 @@ ul li a:hover {
     border-radius: 15px;
 }
 
+#row7 {
+    width: 30vw;
+    height: 360px;
+    border: 2px solid black;
+    background: url('sandwitch.jpeg') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-radius: 15px;
+}
+
+#row8 {
+    width: 30vw;
+    height: 360px;
+    border: 2px solid black;
+    background: url('samosa.jpeg') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-radius: 15px;
+}
+
+#row9 {
+    width: 30vw;
+    height: 360px;
+    border: 2px solid black;
+    background: url('Pavbhaji.jpeg') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-radius: 15px;
+}
+
 
 /*Designing the footer*/
 
